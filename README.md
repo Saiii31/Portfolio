@@ -53,12 +53,6 @@ To run this project locally, follow these steps:
 
 You can use this portfolio as a template for your own personal website by updating the content and styling to match your preferences. All sections are modular and can be easily customized.
 
-## Screenshots
-
-*Add screenshots of your website here to give visitors a preview of your work.*
-
-![Home Page](path/to/homepage-screenshot.png)
-![Portfolio Section](path/to/portfolio-section-screenshot.png)
 
 ## Contact
 
